@@ -18,3 +18,9 @@ I'm Mykola Ukhanskyi Ruby on Rails Developer with more than 3.5 years of experie
 [![MySQL Badge](https://img.shields.io/badge/mysql-00758f?style=for-the-badge&logo=mysql&logoColor=00758f&labelColor=black&color=00758f)](https://www.mysql.com/)
 [![Swagger Badge](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=85EA2D&labelColor=black&color=85EA2D)](https://swagger.io/)
 [![Static Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=black&color=61DAFB)](https://react.dev/)
+
+<!---
+### Statistics
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ukhanskyi&show=prs_merged,prs_merged_percentage&hide=stars,issues,contribs&theme=transparent)
+-->
